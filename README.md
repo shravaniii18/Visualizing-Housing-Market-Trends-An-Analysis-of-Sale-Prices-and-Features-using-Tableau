@@ -7,21 +7,21 @@ The goal of the project is to help stakeholders gain insights into housing marke
 
 Objectives
 
-Analyze housing sales data using data visualization techniques.
+->Analyze housing sales data using data visualization techniques.
 
-Identify relationships between housing features and sale prices.
+->Identify relationships between housing features and sale prices.
 
-Understand the impact of renovations on property value.
+->Understand the impact of renovations on property value.
 
-Create an interactive dashboard for exploring housing market trends.
+->Create an interactive dashboard for exploring housing market trends.
 
 Tools and Technologies
 
-Tableau Public – Data visualization and dashboard creation
+->Tableau Public – Data visualization and dashboard creation
 
-CSV Dataset – Housing data used for analysis
+->CSV Dataset – Housing data used for analysis
 
-GitHub – Project documentation and version control
+->GitHub – Project documentation and version control
 
 Dataset Description
 
